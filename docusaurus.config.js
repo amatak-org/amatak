@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'amatak.io', // Usually your GitHub org/user name.
-  projectName: 'https://github.com/amatak-org/amatak_business_site', // Usually your repo name.
+  projectName: 'https://github.com/amatak-org/amatak', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/amatak-org/amatak_business_site',
+            'https://github.com/amatak-org/amatak',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
