@@ -2,7 +2,7 @@ AutoCare Seven
 ===============
 
 To get started, open a terminal and run the following commands one after the other:
-Account Ledger is written in Python (Django).
+AutoCare7 platform  is written in Python (Django).
 
 
 ## Clone from Github
