@@ -16,8 +16,9 @@ python manage.py migrate
 python manage.py createsuperuser --username admin
 
 ```
-```Try Demo
-https://account.amatak.io/
+## Try demo available.
+Try [Demo Account Ledger](https://account.amatak.io "The Amatak Opensource site").
+```
 user: demo
 Pss: Mydemo@23
 
@@ -26,8 +27,7 @@ Pss: Mydemo@23
 
 To download to your local computer [Here](https://github.com/amatak-org/AccountLedger "Download Full Code").
 
-## amatak.org
-Check out full document at [amatak.org](https://amatak.org "The Amatak Opensource site").
+
 
 amatak.io@outlook.com
 

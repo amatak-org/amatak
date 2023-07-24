@@ -20,9 +20,14 @@ python manage.py createsuperuser --username admin
 
 To download to your local computer [Here](https://github.com/amatak-org/AutoCare7 "Download Full Code").
 
-## amatak.org
-Check out full document at [amatak.org](https://amatak.org "The Amatak Opensource site").
+## Try demo:
+Try  [Autocare7 Demo Site](https://my.autocare7.com "The Amatak Opensource site").
 
+```Username & Pass
+user: demo
+pss: Trydemo
+```
+## Contact 24/7
 amatak.io@outlook.com
 
 ## Report issue:

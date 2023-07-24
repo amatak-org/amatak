@@ -12,14 +12,21 @@ cd amatak_business_site
 npm install
 npm run dev
 ```
+## Install from NPM
+To install all versions at: [Amatak all versions from NPM](Full versions at: [Here](https://github.com/amatak-org/amatak_business_site)
 
+```shell
+npm i @amatak/amatak
+```
 # Download:
 
 To download to your local computer [Here](https://github.com/amatak-org/amatak_business_site "Download Full Code").
 
-## amatak.org
-Check out full document at [amatak.org](https://amatak.org "The Amatak Opensource site").
+## Demo Site Available
+Check out full demo site at [Demo Business Site](https://demo-business-site.amatak.org "The Amatak Opensource site").
 
+
+## Support 24/7
 amatak.io@outlook.com
 
 ## Report issue:
