@@ -20,9 +20,17 @@ python manage.py createsuperuser --username admin
 
 To download to your local computer [Here](https://github.com/amatak-org/UteachApp.git "Download Full Code").
 
-## amatak.org
-Check out full document at [amatak.org](https://amatak.org "The Amatak Opensource site").
+## To check Uteach App
+The live site  [Uteach.app](https://uteach.app "Online Learning").
 
+
+```Register Account.
+To register account copy and past this link to your browser
+https://uteach.app or click on the link above.
+
+```
+
+## Need helps?
 amatak.io@outlook.com
 
 ## Report issue:
