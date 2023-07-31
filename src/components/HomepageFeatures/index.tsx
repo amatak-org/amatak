@@ -10,6 +10,8 @@ const MySEO = () => (
     <meta charSet="utf-8" />
     <title>Amatak Opensource</title>
     <link rel="canonical" href="https://amatak.org/docs" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1930350912157340"
+     crossorigin="anonymous"></script>
   </Head>
 );
 
